@@ -7,5 +7,4 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 ## better view 
 
-[Link Text]([https://www.example.com](https://nbviewer.org/github/Hesham942/DataScienceProject/blob/main/files/bank-marketing.ipynb)https://nbviewer.org/github/Hesham942/DataScienceProject/blob/main/files/bank-marketing.ipynb)
-
+<li><a href="https://nbviewer.org/github/Hesham942/DataScienceProject/blob/main/files/bank-marketing.ipynb" target="_blank">For better view to project</a></li>
